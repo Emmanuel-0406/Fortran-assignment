@@ -2,7 +2,7 @@
    !6304724
   Program him
  implicit none 
- integer,dimension(10)::scores-(/85,62,45,91,38,74,55,88,61,47/)
+ integer,dimension(10)::scores=(/85,62,45,91,38,74,55,88,61,47/)
  !This is to declare an array  to store the 10 scores
 integer:: i
 !I because its an integer
