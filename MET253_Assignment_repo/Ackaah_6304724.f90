@@ -1,4 +1,5 @@
-   !ACKAAH-BOAKYE Emmanuel (6304724)
+   !ACKAAH-BOAKYE Emmanuel 
+   !6304724
   Program him
  implicit none 
  integer,dimension(10)::scores-(/85,62,45,91,38,74,55,88,61,47/)
